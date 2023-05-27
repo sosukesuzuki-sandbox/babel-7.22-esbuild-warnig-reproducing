@@ -1,0 +1,12 @@
+{
+  "name": "babel-7.22-esbuild",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node ./scripts/build.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.22.0",
+    "esbuild": "^0.17.19"
+  }
+}
