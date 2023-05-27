@@ -1,4 +1,4 @@
-# `@babel/parser` 7.22 and esbuild bug reproduction
+# `@babel/parser` 7.22 and esbuild warning reproducing
 
 This repository is for reproducing warnings that occur when bundling `@babel/parser` 7.22.0 with esbuild.
 
